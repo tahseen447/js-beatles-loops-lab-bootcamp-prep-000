@@ -9,14 +9,14 @@ function iLoveTheBeatles(number)
   if(number ===7)
   {
     for(var i=0; i<number; i++)
-  {
-    array.push('I Love the Beatles!')
+      {
+    array.push('I love the Beatles!')
   }
-array.push('I Love the Beatles!')
+  array.push('I love the Beatles!')
 }
 else if(number===17)
 {
-  array.push('I Love the Beatles!')
+  array.push('I love the Beatles!')
 }
   return array
 }
