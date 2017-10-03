@@ -8,7 +8,7 @@ function theBeatlesPlay(musicians, instruments)
   return array
 }
 
-function johnLennonFacts(const facts)
+function johnLennonFacts(facts)
 {
   var array =[]
   for(var i =0; i<facts.length; i++)
