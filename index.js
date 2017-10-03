@@ -20,13 +20,10 @@ function johnLennonFacts(const facts)
 function iLoveTheBeatles(number)
 {
   var array=[];
-  if(number ===7)
-  {
-    for(var i=0; i<number; i++)
-      {
+  do{
     array.push('I love the Beatles!')
   }
-  array.push('I love the Beatles!')
+  while(number<=7)
 }
 else if(number===17)
 {
