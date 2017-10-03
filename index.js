@@ -3,7 +3,7 @@ function theBeatlesPlay(musicians, instruments)
   var newArray=[]
   for(var i =0; i< musicians.length; i++)
   {
-    array.push(musicians[i] +' plays '+instruments[i]);
+    //array.push(musicians[i] +' plays '+instruments[i]);
   }
   return array
 }
@@ -12,7 +12,7 @@ function johnLennonFacts(const facts)
   var array =[]
   for(var i =0; i<facts.length; i++)
   {
-    array.push(facts[i] + '!!!')
+  //  array.push(facts[i] + '!!!')
   }
   return array
 }
