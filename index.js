@@ -8,7 +8,7 @@ function theBeatlesPlay(musicians, instruments)
   }
   return array
 }
-function johnLennonFacts(const facts)
+/*function johnLennonFacts(const facts)
 {
   var array =[]
   for(var i =0; i<facts.length; i++)
@@ -17,7 +17,7 @@ function johnLennonFacts(const facts)
   }
   return array
 }
-
+*/
 function iLoveTheBeatles(number)
 {
   var array=[];
